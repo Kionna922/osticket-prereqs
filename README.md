@@ -23,11 +23,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- 1 C++ Redistributable
+- 2 PHP Manager
+- 3 Microsoft Web Platform Installer
+- 4 My SQL
+- 5 Internet Information Services (IIS
 
 <h2>Installation Steps</h2>
 
