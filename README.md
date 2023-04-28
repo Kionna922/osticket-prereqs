@@ -27,7 +27,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - 2 PHP Manager
 - 3 Microsoft Web Platform Installer
 - 4 My SQL
-- 5 Internet Information Services (IIS
+- 5 HeidiSQL
 
 <h2>Installation Steps</h2>
 
